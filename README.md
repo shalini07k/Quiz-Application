@@ -27,7 +27,52 @@ We welcome contributions from everyone! Follow these steps to contribute to this
 Click on the Fork button at the top right of this repository to create your own copy.
 
 2️⃣ Clone Your Fork
+```
+bash
+git clone https://github.com/<your-username>/Quiz-Application.git
 
+```
+#### Note:- Replace <your-username> with your GitHub username.
+3️⃣ Navigate to the Project Folder
+```
+bash
+cd Quiz-Application
 
+```
+4️⃣ Create a New Branch
+```
+bash
+git checkout -b feature-name
 
+```
+
+5️⃣ Make Your Changes
+- Add new features
+- Fix bugs
+- Improve UI/UX
+- Update documentation
+
+6️⃣ Commit Your Changes
+```
+bash
+git add .
+git commit -m "Describe your changes"
+
+```
+7️⃣ Push Your Branch
+```
+bash
+git push origin feature-name
+
+```
+8️⃣ Open a Pull Request
+- Go to your fork on GitHub
+- Click Compare & Pull Request
+- Write a clear description of your changes and submit
+
+📝 Contribution Guidelines
+1. Follow consistent coding style
+2. Write meaningful commit messages
+3. Test your changes before submitting
+4. Be respectful and constructive in discussions
 
