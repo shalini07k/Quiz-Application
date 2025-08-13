@@ -7,20 +7,20 @@
 <img width="400" height="800" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/33c1d906-4c5c-46d2-abde-cad0fd51066e" />
 <img width="400" height="800" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/c467a72b-1d31-48d2-b0e9-2072e13de7b5" />
 
-###🚀 Features
+### 🚀 Features
 
 1. Multiple Choice Questions (MCQs)
 2. Instant score display after submission
 3. Shows incorrect answers for better learning
 4. Responsive and clean UI
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - HTML – Structure of the app
 - CSS – Styling and layout
 - JavaScript – Quiz logic and interactivity
   
-###🤝 How to Contribute
+### 🤝 How to Contribute
 We welcome contributions from everyone! Follow these steps to contribute to this project:
 
 ## 1️⃣ Fork the Repository
