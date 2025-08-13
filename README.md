@@ -7,65 +7,65 @@
 <img width="400" height="800" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/33c1d906-4c5c-46d2-abde-cad0fd51066e" />
 <img width="400" height="800" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/c467a72b-1d31-48d2-b0e9-2072e13de7b5" />
 
-### 🚀 Features
+## 🚀 Features
 
 1. Multiple Choice Questions (MCQs)
 2. Instant score display after submission
 3. Shows incorrect answers for better learning
 4. Responsive and clean UI
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - HTML – Structure of the app
 - CSS – Styling and layout
 - JavaScript – Quiz logic and interactivity
   
-### 🤝 How to Contribute
+## 🤝 How to Contribute
 We welcome contributions from everyone! Follow these steps to contribute to this project:
 
-## 1️⃣ Fork the Repository
+### 1️⃣ Fork the Repository
 Click on the Fork button at the top right of this repository to create your own copy.
 
-## 2️⃣ Clone Your Fork
+### 2️⃣ Clone Your Fork
 ```
 bash
 git clone https://github.com/<your-username>/Quiz-Application.git
 
 ```
 #### Note:- Replace <your-username> with your GitHub username.
-## 3️⃣ Navigate to the Project Folder
+### 3️⃣ Navigate to the Project Folder
 ```
 bash
 cd Quiz-Application
 
 ```
-## 4️⃣ Create a New Branch
+### 4️⃣ Create a New Branch
 ```
 bash
 git checkout -b feature-name
 
 ```
 
-## 5️⃣ Make Your Changes
+### 5️⃣ Make Your Changes
 - Add new features
 - Fix bugs
 - Improve UI/UX
 - Update documentation
 
-## 6️⃣ Commit Your Changes
+### 6️⃣ Commit Your Changes
 ```
 bash
 git add .
 git commit -m "Describe your changes"
 
 ```
-## 7️⃣ Push Your Branch
+### 7️⃣ Push Your Branch
 ```
 bash
 git push origin feature-name
 
 ```
-## 8️⃣ Open a Pull Request
+### 8️⃣ Open a Pull Request
 - Go to your fork on GitHub
 - Click Compare & Pull Request
 - Write a clear description of your changes and submit
